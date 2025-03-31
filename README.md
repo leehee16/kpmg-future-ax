@@ -1,6 +1,5 @@
-# KPMG Future AX Project
+# KPMG Future AX 컨설턴트 과정, 과제 통합 레포지토리입니다.
 
-KPMG Future AX 프로젝트는 AI/ML 기술을 활용한 다양한 실험과 프로젝트를 포함하는 통합 레포지토리입니다.
 
 ## 프로젝트 목록
 
@@ -36,33 +35,3 @@ KPMG Future AX 프로젝트는 AI/ML 기술을 활용한 다양한 실험과 프
 - Deep Learning (PyTorch/TensorFlow)
 - ML Ops
 - Streamlit
-
-## 설치 방법
-
-1. 가상환경 생성 및 활성화
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# or
-.\venv\Scripts\activate  # Windows
-```
-
-2. 의존성 설치
-```bash
-pip install -r requirements.txt
-```
-
-## 환경 설정
-
-1. `.env` 파일 생성
-```bash
-HUGGINGFACE_TOKEN=your_token_here
-```
-
-## 프로젝트별 실행 방법
-
-각 프로젝트 디렉토리의 README.md 파일을 참조하세요.
-
-## 라이선스
-
-이 프로젝트는 MIT 라이선스를 따릅니다. 
